@@ -1,0 +1,7 @@
+# 推断依赖（根据代码中的 imports）
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+plotly
